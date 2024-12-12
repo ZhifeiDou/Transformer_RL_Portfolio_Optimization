@@ -3,11 +3,12 @@ This is the project for MIE1666 2024 Fall Team 5: Leveraging Transformer in Deep
 
 As Google Collab allows the running of 3 ipynb files in parallel, all code is simply in Jupyter Notebook to save hyperparameter tuning time. 
 
+
 Folder and explanations:
 
 ft_val -> final hyperparameter tuning for the transformer model in the deep reinforcement learning structure 
 
-final_comparsion -> Train the transformer with the tuned hyperparameter setting and evaluate it with the test dataset, compare with baseline models
+final_comparsion -> Train the transformer with the tuned hyperparameter setting and evaluate it with the test dataset, compare with baseline models 
 
 Environment required:
 python 3.9/3.10
