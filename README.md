@@ -1,14 +1,10 @@
 # MIE1666_RL_Portfolio_Optimization
-
 This is the project for MIE1666 2024 Fall Team 5: Leveraging Transformer in Deep Reinforcement Learning for Portfolio Optimization
-
-All code are simply in jupyter notebook so just simply setup the env and run. Or upload to google collab is also fine
+As Google Collab allows the running of 3 ipynb files in parallel, all code is simply in Jupyter Notebook to save fine-tune computing time. 
 
 Folder and explanations:
-
 ft_val -> Fine-tuning for the transformer PPO 
-
-final_comparsion -> Train the transformer PPO with the tuned hyperparameter setting and evaluate it withthe  test dataset, compare with baseline models
+final_comparsion -> Train the transformer PPO with the tuned hyperparameter setting and evaluate it with the test dataset, compare with baseline models
 
 Environment required:
 python 3.9/3.10
