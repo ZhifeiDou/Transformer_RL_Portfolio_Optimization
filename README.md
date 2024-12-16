@@ -8,7 +8,7 @@ Folder and explanations:
 
 ft_val -> final hyperparameter tuning for the transformer model in the deep reinforcement learning structure 
 
-final_comparsion -> Train the transformer with the tuned hyperparameter setting and evaluate it with the test dataset, compare with baseline models 
+final_comparsion -> Train the transformer with the tuned hyperparameter setting and evaluate it with the test dataset, compare with baseline methods (Fully connected, LSTM, and QP)
 
 Environment required:
 python 3.9/3.10
