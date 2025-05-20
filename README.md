@@ -1,4 +1,4 @@
-# Transformer Reinforcement Learning Portfolio Optimization
+# Transformer Reinforcement Learning and Quadratic Programming Portfolio Optimization
 This is the course project for MIE1666 2024 Fall Team 5: 
 **Leveraging Transformer in Deep Reinforcement Learning for Portfolio Optimization.**
 
