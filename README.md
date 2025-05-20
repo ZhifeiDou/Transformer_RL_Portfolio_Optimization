@@ -1,10 +1,10 @@
 # MIE1666_RL_Portfolio_Optimization
-This is the course project for MIE1666 2024 Fall Team 5: Leveraging Transformer in Deep Reinforcement Learning for Portfolio Optimization.
+This is the course project for MIE1666 2024 Fall Team 5: ** Leveraging Transformer in Deep Reinforcement Learning for Portfolio Optimization. **
 
-**Full Report**
+## Full Report
 The full report is available in 
 
-**Folder and explanations:**
+##Folder and explanations:
 
 **ft_val** -> final hyperparameter tuning for the transformer model in the deep reinforcement learning structure 
 
