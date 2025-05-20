@@ -1,8 +1,11 @@
 # Leveraging Transformer in Deep Reinforcement Learning for Portfolio Optimization
 This is the course project for MIE1666 2024 Fall Team 5: 
 **Leveraging Transformer in Deep Reinforcement Learning for Portfolio Optimization.**
+
 **Categories:** [Deep Reinforcement Learning, Quadratic Programming Optimization, Portfolio Optimization]
+
 **Keywords:** [Transformer, LSTM, Proximal Policy Optimization (PPO), Quadratic Programming (QP), Differential Sharpe Ratio]
+
 **Project Abstract:** This article explores the use of Transformer models within a Deep Reinforcement Learning
 (DRL) framework for portfolio optimization. Inspired by the paper ‘Deep Reinforcement
 Learning for Optimal Portfolio Allocation’, by the JP Morgan AI Research Group, as financial
