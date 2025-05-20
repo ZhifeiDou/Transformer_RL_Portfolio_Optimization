@@ -1,8 +1,8 @@
 # MIE1666_RL_Portfolio_Optimization
-This is the project for MIE1666 2024 Fall Team 5: Leveraging Transformer in Deep Reinforcement Learning for Portfolio Optimization.
+This is the course project for MIE1666 2024 Fall Team 5: Leveraging Transformer in Deep Reinforcement Learning for Portfolio Optimization.
 
-As Google Collab allows the running of 3 ipynb files in parallel, all code is simply in Jupyter Notebook to save hyperparameter tuning time. 
-
+**Full Report**
+The full report is available in 
 
 **Folder and explanations:**
 
