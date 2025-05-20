@@ -2,7 +2,7 @@
 This is the course project for MIE1666 2024 Fall Team 5: ** Leveraging Transformer in Deep Reinforcement Learning for Portfolio Optimization. **
 
 ## Full Report
-The full report is available in 
+The full report is available in (MIE1666_Report.pdf)
 
 ## Folder and explanations:
 
@@ -12,7 +12,7 @@ The full report is available in
 
 **future_work** -> Effort of trying to implement 'future work' mentioned in the slide and report
 
-**Environment required:**
+## Environment required:
 python 3.9/3.10
 pytorch == 2.5.1
 cuda == 11.8
