@@ -6,7 +6,7 @@ This is the course project for MIE1666 2024 Fall Team 5:
 
 **Keywords:** [Transformer, LSTM, Proximal Policy Optimization (PPO), Quadratic Programming (QP), Differential Sharpe Ratio]
 
-**Project Abstract:** This article explores the use of Transformer models within a Deep Reinforcement Learning
+**Project Abstract:** This project explores the use of Transformer models within a Deep Reinforcement Learning
 (DRL) framework for portfolio optimization. Inspired by the paper ‘Deep Reinforcement
 Learning for Optimal Portfolio Allocation’, by the JP Morgan AI Research Group, as financial
 markets grow increasingly complex, traditional methods, such as Mean-Variance Optimization
